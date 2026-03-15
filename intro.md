@@ -6,7 +6,7 @@ I am a researcher in AI with applications in mathematics and finance. I did my P
 
 I am interested in using mathematics to understand how AI works and using AI to solve mathematical problems. I am also interested in financial applications. I am collating here some of my research interests and sharing guides to how I understand topics in mathematics. 
 
-I'd like this to be an introduction in topics that interest me. I'd like to write in a style that comes from intuitions, but also maintains a good level of formal argumentations. 
+I'd like this to be an introduction in topics that interest me. I'd like to write in a style that comes from intuitions, but also maintains a good level of formal argumentation. 
 
 These are some of the topics I will cover:
 - Mathematics for Quantitative Finance,

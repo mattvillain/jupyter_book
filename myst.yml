@@ -19,6 +19,7 @@ project:
         - title: Understanding AI
           children:
             - file: artificial_intelligence/2_understanding_AI/intro.md
+            - file: artificial_intelligence/2_understanding_AI/1_neural_networks.md
     - title: Automated Theorem Proving And Categories
       children:
         - file: automated_theorem_proving_and_categories/intro.md
