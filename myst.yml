@@ -5,7 +5,7 @@ project:
   title: Topics in Financial Mathematics and Artificial Intelligence
   # description:
   # keywords: []
-  # authors: []
+  authors: [Mattia JAcopo Villani]
   # github:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
