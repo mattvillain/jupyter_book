@@ -1,0 +1,3 @@
+# Topics in Artificial Intelligence
+
+In this series, we will be looking at recent developments in AI. I find a lot of the time that literature reviews are great at pointing to papers, but not so great at pulling the relevant information. In particular, I'd like to *quotient out* the common details of papers to be able to provide a single narrative where the several papers fit in. I'd like to do this in some topics I find interesting. 

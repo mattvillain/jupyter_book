@@ -1,0 +1,5 @@
+# Introduction to Artificial Intelligence
+
+I find current progress in Artificial Intelligence the most significant innovation in history. To a large extent, it suggests that reasoning, as is experienced by humans, is possible outside machines. This effort has roots in the 60s, but has only recently become successful at an anthropologically significant scale. We will study paradigms of Artificial Intelligence, and importantly, what makes neural networks click. There's so many topics I am interested in here. I will provide some background and use this space as a scratch pad to understand what is going on in some current developments. 
+
+I think category theory here can help. In particular, it is sufficiently abstract to provide a template for us to talk about objects and morphisms, then replace them appropriately with neural networks and loss functions. I think all of this can be intuitively understood by replacing the notion of *morphism* with that of function, but if you want to read more about category theory, I am sharing resources in the main intro page for the topic. 
