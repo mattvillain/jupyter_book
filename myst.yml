@@ -19,37 +19,13 @@ project:
         - title: Understanding AI
           children:
             - file: artificial_intelligence/2_understanding_AI/intro.md
-            - title: Mathematical Background
-              children:
-                - file: artificial_intelligence/2_understanding_AI/0_mathematical_background/0_intro.md
-                - file: artificial_intelligence/2_understanding_AI/0_mathematical_background/0_1_complexity_theory.md
-                - file: artificial_intelligence/2_understanding_AI/0_mathematical_background/0_2_statistical_learing_theory.md
-            - title: Neural Networks
-              children:
-                - file: artificial_intelligence/2_understanding_AI/1_neural_networks/intro.md
-                - file: artificial_intelligence/2_understanding_AI/1_neural_networks/1_neural_network_architectures.md
-                - file: artificial_intelligence/2_understanding_AI/1_neural_networks/initialization.md
-            - title: Post Training
-              children:
-                - file: artificial_intelligence/2_understanding_AI/2_post_training/intro.md
     - title: Automated Theorem Proving And Categories
       children:
-        - title: Category Theory
-          children:
-            - file: automated_theorem_proving_and_categories/1_category_theory/0_intro.md
-            - file: automated_theorem_proving_and_categories/1_category_theory/1_category.md
-        - title: Automated Theorem Proving
-          children:
-            - file: automated_theorem_proving_and_categories/2_automated_theorem_proving/0_intro.md
-            - file: automated_theorem_proving_and_categories/2_automated_theorem_proving/1_lean.md
+        - file: automated_theorem_proving_and_categories/intro.md
     - title: Mathematics For Quantitative Finance
       children:
         - file: mathematics_for_quantitative_finance/intro.md
-        - file: mathematics_for_quantitative_finance/probability_for_finance.md
-        - file: mathematics_for_quantitative_finance/stochastic_calculus.md
-        - file: mathematics_for_quantitative_finance/portfolio_optimization.md
-        - file: mathematics_for_quantitative_finance/market_completeness.md
-
+        
     
 site:
   template: book-theme
