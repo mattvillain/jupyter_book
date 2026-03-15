@@ -1,4 +1,4 @@
-# Topics Financial Mathematics and Artificial Intelligence
+# Topics in Artificial Intelligence and Quantitative Finance
 
 Hi, my name is Mattia Villani. 
 
@@ -10,8 +10,7 @@ I'd like this to be an introduction in topics that interest me. I'd like to writ
 
 These are some of the topics I will cover:
 - Mathematics for Quantitative Finance,
-- Artificial Intelligence,
-- Category Theory and Automated Theorem Proving. 
+- Artificial Intelligence. 
 
 This is a work in progress. Content will be added over time. If you have any suggestions, please reach out to me on LinkedIn (Mattia Jacopo Villani). 
 

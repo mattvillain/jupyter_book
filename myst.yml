@@ -2,7 +2,7 @@
 version: 1
 project:
   id: d1fb0ae5-4787-42d3-b5a6-77d66d34bc0d
-  title: Topics in Financial Mathematics and Artificial Intelligence
+  title: Topics in Artificial Intelligence and Financial Mathematics
   # description:
   # keywords: []
   authors: [Mattia Jacopo Villani]
@@ -20,14 +20,9 @@ project:
           children:
             - file: artificial_intelligence/2_understanding_AI/intro.md
             - file: artificial_intelligence/2_understanding_AI/1_neural_networks.md
-    - title: Automated Theorem Proving And Categories
-      children:
-        - file: automated_theorem_proving_and_categories/intro.md
     - title: Mathematics For Quantitative Finance
       children:
         - file: mathematics_for_quantitative_finance/intro.md
-        
-    
 site:
   template: book-theme
   # options:
